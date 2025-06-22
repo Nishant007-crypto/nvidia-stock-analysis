@@ -77,31 +77,10 @@ The notebook explores:
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/yourusername/nvidia-stock-analysis.git
-cd nvidia-stock-analysis
-```
-
-### 2. Install dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Launch the notebook
-```bash
-jupyter notebook notebooks/Nvidia_Stock_Analysis_Complete.ipynb
-```
-
----
-
 ## 📬 Contact
 
-**Author:** Your Name  
-**Email:** your.email@example.com  
-**LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+**Author:** NISHANT 
+**LinkedIn:**(https://www.linkedin.com/in/nishant-singh-2684901a5/)
 
 ---
 
